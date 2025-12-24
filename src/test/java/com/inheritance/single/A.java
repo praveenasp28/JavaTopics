@@ -5,8 +5,13 @@ public class A {
 	public void courseName() {
 
 		System.out.println("Java");
+
 		System.out.println("Python");
 		System.out.println("JavaScript");
+		System.out.println("Selenium");
+		System.out.println("API");
+		System.out.println("MobileTesting");
+		System.out.println("ManualTesting");
 	}
 
 }
