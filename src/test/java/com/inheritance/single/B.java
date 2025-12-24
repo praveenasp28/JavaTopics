@@ -5,6 +5,9 @@ public class B extends A {
 	private void empName() {
 
 		System.out.println("Praveen");
+		System.out.println("Balaji");
+		System.out.println("Vishnu");
+		
 
 	}
 
